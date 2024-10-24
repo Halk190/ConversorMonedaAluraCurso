@@ -46,4 +46,4 @@ Este proyecto es parte de un reto educativo del curso y no está diseñado para 
 
 ## Autor
 
-Creado por **[Tu Nombre]** como parte del curso de **Java Orientado a Objetos** en **Alura Cursos**.
+Creado por **Angel David Rojas Riveros(Capyb4raDev)** como parte del curso de **Java Orientado a Objetos** en **Alura Cursos**.
